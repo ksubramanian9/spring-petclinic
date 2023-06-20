@@ -24,6 +24,7 @@ import jakarta.persistence.Table;
  * Models a {@link Vet Vet's} specialty (for example, dentistry).
  *
  * @author Juergen Hoeller
+ * This is just a small edit
  */
 @Entity
 @Table(name = "specialties")
